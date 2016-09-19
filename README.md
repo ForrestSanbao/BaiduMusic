@@ -1,5 +1,6 @@
 # BaiduMusic
-Baidu iOS items By Samboo.
+
+BaiduMusic （iOS items） By Samboo.
 
 Thank you for your support!
 
